@@ -1,3 +1,5 @@
+### THIS PROJECT IS ABANDONED
+
 # Slack Black Theme
 
 A darker, more contrasty, Slack theme.
